@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "188796098965",
+    "firebase_url": "https://baywa-stiftung-app.firebaseio.com",
+    "project_id": "baywa-stiftung-app",
+    "storage_bucket": "baywa-stiftung-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188796098965:android:d53185e2c3bd5e0e",
+        "android_client_info": {
+          "package_name": "de.baywastiftung.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188796098965-7baffvlskh63pnc41pmoelh9c57g8mfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFaoN-sGTw0sO0JLd0X4HqNdc3p2HAbag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
