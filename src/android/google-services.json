@@ -1,27 +1,58 @@
 {
   "project_info": {
-    "project_number": "188796098965",
-    "firebase_url": "https://baywa-stiftung-app.firebaseio.com",
-    "project_id": "baywa-stiftung-app",
-    "storage_bucket": "baywa-stiftung-app.appspot.com"
+    "project_number": "831543314473",
+    "firebase_url": "https://baywa-stiftung.firebaseio.com",
+    "project_id": "baywa-stiftung",
+    "storage_bucket": "baywa-stiftung.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:188796098965:android:d53185e2c3bd5e0e",
+        "mobilesdk_app_id": "1:831543314473:android:551651b8a58fbc7b",
         "android_client_info": {
-          "package_name": "de.baywastiftung.android"
+          "package_name": "com.baywa.energie.tankstellenfinder.ap"
         }
       },
       "oauth_client": [
         {
-          "client_id": "188796098965-7baffvlskh63pnc41pmoelh9c57g8mfo.apps.googleusercontent.com",
+          "client_id": "831543314473-vbndmevablp71os2hi5bn6nnlnvlaqrd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDFaoN-sGTw0sO0JLd0X4HqNdc3p2HAbag"
+          "current_key": "AIzaSyAeA6pzoARIkgGneibLp7cB0Ir5yzkwwBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831543314473:android:505926a2c09f5b0e",
+        "android_client_info": {
+          "package_name": "com.baywa.stiftung.essenwissen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831543314473-vbndmevablp71os2hi5bn6nnlnvlaqrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeA6pzoARIkgGneibLp7cB0Ir5yzkwwBY"
         }
       ],
       "services": {
